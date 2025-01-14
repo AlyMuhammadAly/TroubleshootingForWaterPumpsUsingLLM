@@ -1,9 +1,7 @@
-<h1 style="text-align: center;">Master Thesis: Troubleshooting Agent</h1>
+<h1 style="text-align: center;">Water Pump Troubleshooting Chatbot</h1>
 
 
 ### Notebook by Ali Radwan
-#### Supervised by Prof. Hani Hagras
-#### School of Computer Science and Electronic Engineering, University of Essex.
 
 <a name="installation"></a>
 ## How to Run the Project
