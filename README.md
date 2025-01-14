@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">Troubleshooting Agent</h1>
+<h1 style="text-align: center;">Master Thesis: Troubleshooting Agent</h1>
 
 
 ### Notebook by Ali Radwan
-#### Submitted to Prof. Hani Hagras
+#### Supervised by Prof. Hani Hagras
 #### School of Computer Science and Electronic Engineering, University of Essex.
 
 <a name="installation"></a>
